@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tuulianniina
 - 👀 I’m interested in software development, servers, graphics, game engines, game design... Fluid simulation seems interesting!
-- 🌱 I’m currently learning about Bezier curves and trigonometry. Everything Javascript related.
+- 🌱 Bezier curves. Everything Javascript related.
 - 💞️ Not looking for collaborations right now.
 - 📫 . . .
